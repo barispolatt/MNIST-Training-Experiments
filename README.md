@@ -15,8 +15,7 @@ By housing both experiments in a single project, you can easily compare the bene
 .
 ├── baseline_experiment.py         # Baseline training code with loss logging and error analysis
 ├── regularization_experiment.py   # Code implementing dropout, early stopping, and their combination
-├── README.md                      # This file
-└── requirements.txt               # List of Python dependencies (TensorFlow, NumPy, Matplotlib)
+└── README.md                      # This file
 ```
 
 ## Requirements
