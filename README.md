@@ -33,12 +33,6 @@ You can install the dependencies using pip:
 pip install tensorflow numpy matplotlib
 ```
 
-Alternatively, install them using the `requirements.txt` file:
-
-```sh
-pip install -r requirements.txt
-```
-
 ## How to Run the Code
 
 ### Baseline Experiment
