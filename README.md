@@ -97,6 +97,4 @@ Future improvements may include:
 - Exploring additional regularization methods (e.g., L1/L2 regularization) or more complex network architectures.
 - Extending the experiments to more challenging datasets to further validate the effectiveness of the regularization techniques.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+Barış Polat
